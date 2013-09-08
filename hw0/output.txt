@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Jun Hee
+   last: Lee
+email: junheelee@nyu.edu
+leaderboard: JunHeeLee
