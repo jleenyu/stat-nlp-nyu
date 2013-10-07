@@ -23,7 +23,7 @@ fight	NN
 -	HYPH
 for	IN
 -	HYPH
-fewest	NN
+fewest	JJS
 -	HYPH
 features	NNS
 between	IN
@@ -997,7 +997,7 @@ W.	NNP
 Graae	NNP
 .	.
 
-***	CD
+***	NN
 
 Bush	NNP
 also	RB
@@ -1033,7 +1033,7 @@ Steadman	NNP
 Remember	VB
 Luis	NNP
 Posada	NNP
-Carriles	NNP
+Carriles	NNPS
 ?	.
 
 Here	RB
@@ -1328,7 +1328,7 @@ the	DT
 "	NNP
 War	NNP
 on	IN
-Terror	NNP
+Terror	NN
 .	.
 "	NNP
 
@@ -1623,7 +1623,7 @@ the	DT
 "	NNP
 War	NNP
 on	IN
-Terror	NNP
+Terror	NN
 .	.
 "	NNP
 
@@ -1760,7 +1760,7 @@ the	DT
 Contra	NNP
 effort	NN
 ,	,
-staffed	VBN
+staffed	VBD
 by	IN
 covert	JJ
 ops	NNS
@@ -2122,8 +2122,8 @@ in	IN
 Louisianna	NNP
 ..	NNP
 
-Former	NNP
-Pastor	NNP
+Former	JJ
+Pastor	NN
 ,	,
 Deputy	NNP
 Implicated	VBN
@@ -2660,8 +2660,8 @@ You	PRP
 ?	.
 
 You	PRP
-CAN	RB
-Do	VBP
+CAN	MD
+Do	VB
 It	PRP
 .	.
 
@@ -2807,7 +2807,7 @@ the	DT
 Hands	NNP
 of	IN
 Iraq	NNP
-Terrorists	NNPS
+Terrorists	NNS
 ?	.
 "	NNP
 
@@ -3371,7 +3371,7 @@ the	DT
 trial	NN
 of	IN
 Toledo	NNP
-priest	NNP
+priest	NN
 Gerald	NNP
 Robinson	NNP
 .	.
@@ -3908,7 +3908,7 @@ Now	RB
 FLDS	VBZ
 leader	NN
 Warren	NNP
-Jeffs	NNPS
+Jeffs	NNP
 has	VBZ
 been	VBN
 added	VBN
@@ -3982,7 +3982,7 @@ the	DT
 FLDS	NNS
 under	IN
 Mr.	NNP
-Jeffs	NNPS
+Jeffs	NNP
 (	(
 and	CC
 his	PRP$
@@ -4120,7 +4120,7 @@ and	CC
 state	NN
 officials	NNS
 said	VBD
-Jeffs	NNPS
+Jeffs	NNP
 "	NNP
 is	VBZ
 considered	VBN
@@ -4215,7 +4215,7 @@ the	DT
 earth	NN
 ,	,
 "	NNP
-Jeffs	NNPS
+Jeffs	NNP
 has	VBZ
 said	VBD
 as	RB
@@ -4305,7 +4305,7 @@ communities	NNS
 .	.
 "	NNP
 
-http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	CD
+http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	NN
 
 Maybe	RB
 I	PRP
@@ -4336,8 +4336,8 @@ tracking	VBG
 mechanism	NN
 in	IN
 place	NN
-"	NNS
-?!?!?	VBP
+"	NN
+?!?!?	VBZ
 
 Never	RB
 mind	NN
@@ -4563,7 +4563,7 @@ life	NN
 In	IN
 the	DT
 Warren	NNP
-Jeffs	NNPS
+Jeffs	NNP
 cult	NN
 he	PRP
 reassigns	VBZ
@@ -4805,7 +4805,7 @@ another	DT
 big	JJ
 Iraq	NNP
 whoopsie	NN
-daisy	JJ
+daisy	NN
 ,	,
 huh	NN
 ?	.
@@ -5350,7 +5350,7 @@ the	DT
 topic	NN
 of	IN
 that	DT
-priest	JJS
+priest	NN
 conviction	NN
 :	:
 http://www.sploid.com/news/2006/05/evil_priest_gui.php	NN
@@ -5526,7 +5526,7 @@ down	IN
 the	DT
 path	NN
 of	IN
-righteousness	NN
+righteousness	JJ
 has	VBZ
 fallen	VBN
 to	TO
@@ -5720,7 +5720,7 @@ that	WDT
 is	VBZ
 REAL	NNP
 MORALITY	NNP
-?????	VBP
+?????	VBZ
 )	)
 
 So	RB
@@ -5733,7 +5733,7 @@ I	PRP
 detect	VBP
 the	DT
 hissing	VBG
-lisp	JJ
+lisp	NN
 of	IN
 the	DT
 lying	VBG
@@ -6162,7 +6162,7 @@ http://news.bbc.co.uk/2/hi/programmes/this_world/4446342.stm	NN
 One	CD
 man	NN
 's	POS
-relentless	NN
+relentless	JJ
 search	NN
 for	IN
 his	PRP$
@@ -6378,7 +6378,7 @@ of	IN
 satanic	JJ
 literature	NN
 and	CC
-paraphernalia	NN
+paraphernalia	NNS
 in	IN
 her	PRP$
 bedroom	NN
@@ -7181,8 +7181,8 @@ designed	VBN
 to	TO
 have	VB
 a	DT
-functionally	JJ
-transcendent	NN
+functionally	RB
+transcendent	JJ
 effect	NN
 on	IN
 listeners	NNS
@@ -7580,7 +7580,7 @@ Orders	NNS
 -	:
 
 very	RB
-creepy	NN
+creepy	JJ
 ,	,
 very	RB
 scary	JJ
@@ -7680,9 +7680,9 @@ and	CC
 13389	CD
 ,	,
 and	CC
-***	CD
+***	NN
 Revocation	NN
-***	CD
+***	NN
 of	IN
 Executive	NNP
 Order	NNP
@@ -8031,7 +8031,7 @@ the	DT
 top	NN
 of	IN
 a	DT
-pyrimidal	JJ
+pyrimidal	NN
 power	NN
 structure	NN
 )	)
@@ -8278,8 +8278,8 @@ for	IN
 people	NNS
 who	WP
 adhear	VBP
-to	TO
-non-violence	VB
+to	IN
+non-violence	NN
 ,	,
 forgiveness	NN
 ,	,
@@ -8399,7 +8399,7 @@ two	CD
 Though	IN
 I	PRP
 am	VBP
-loathe	JJ
+loathe	VB
 to	TO
 quote	VB
 other	JJ
@@ -9452,7 +9452,7 @@ and	CC
 building	VBG
 the	DT
 best	JJS
-nukes	VBZ
+nukes	NNS
 the	DT
 world	NN
 's	POS
@@ -10202,7 +10202,7 @@ who	WP
 can	MD
 defeat	VB
 the	DT
-MMA	NNP
+MMA	NN
 in	IN
 fair	JJ
 elections	NNS
@@ -11374,7 +11374,7 @@ unrelated	JJ
 incidents	NNS
 ,	,
 some	DT
-eleven	NN
+eleven	VBN
 Iraqis	NNP
 were	VBD
 killed	VBN
@@ -11972,7 +11972,7 @@ A	DT
 radical	JJ
 Shiite	NNP
 Muslim	NNP
-cleric	NNP
+cleric	NN
 has	VBZ
 expressed	VBN
 solidarity	NN
@@ -12676,7 +12676,7 @@ stockpiles	NNS
 .	.
 
 Its	PRP$
-ramshackle	NN
+ramshackle	JJ
 army	NN
 had	VBD
 virtually	RB
@@ -12741,7 +12741,7 @@ Armed	NNP
 militias	NNS
 ,	,
 many	JJ
-staffed	VBN
+staffed	VBD
 by	IN
 former	JJ
 Iraqi	JJ
@@ -12828,7 +12828,7 @@ Ruhollah	NNP
 Khomeini	NNP
 ,	,
 routinely	RB
-chant	NN
+chant	JJ
 and	CC
 demonstrate	VB
 against	IN
@@ -13058,7 +13058,7 @@ Saddam	NNP
 Hussein	NNP
 's	POS
 dictatorship	NN
-ensured	VBN
+ensured	VBD
 that	IN
 such	JJ
 populist	JJ
@@ -13264,8 +13264,8 @@ Michigan	NNP
 and	CC
 author	NN
 of	IN
-"	NNP
-Sacred	NNP
+"	NN
+Sacred	VBN
 Space	NNP
 and	CC
 Holy	NNP
@@ -14462,7 +14462,7 @@ of	IN
 .	.
 
 Wolfowitz	NNP
-contradicted	VBN
+contradicted	JJ
 counter-terrorism	NN
 czar	NN
 Richard	NNP
@@ -14548,7 +14548,7 @@ an	DT
 Egyptian	JJ
 terrorist	JJ
 component	NN
-allied	VBN
+allied	VBD
 with	IN
 Bin	NNP
 Laden	NNP
@@ -15470,7 +15470,7 @@ and	CC
 children	NNS
 ,	,
 in	IN
-revenge	VB
+revenge	NN
 for	IN
 the	DT
 deaths	NNS
@@ -17485,8 +17485,8 @@ Egyptian	JJ
 extremists	NNS
 and	CC
 the	DT
-polyglot	NN
-Arabs	NNS
+polyglot	NNPS
+Arabs	NNPS
 around	IN
 Bin	NNP
 Laden	NNP
@@ -17607,7 +17607,7 @@ the	DT
 order	NN
 of	IN
 Protestant	JJ
-Pietists	NNS
+Pietists	NNP
 )	)
 .	.
 
@@ -18606,7 +18606,7 @@ at	IN
 Newsday	NNP
 .	.
 
-Excerpt	NN
+Excerpt	NNP
 :	:
 
 "	NNP
@@ -18824,7 +18824,7 @@ the	DT
 preacher	NN
 at	IN
 the	DT
-mosque	NN
+mosque	JJ
 in	IN
 the	DT
 town	NN
@@ -19180,7 +19180,7 @@ Talal	NNP
 Husain	NNP
 ,	,
 assistant	JJ
-dean	JJ
+dean	NN
 at	IN
 the	DT
 School	NNP
@@ -19620,7 +19620,7 @@ crime	NN
 against	IN
 humanity	NN
 ,	,
-prosecute	NN
+prosecute	JJ
 the	DT
 person	NN
 .	.
@@ -19818,7 +19818,7 @@ Scientific	NNP
 Committee	NNP
 on	IN
 the	DT
-Effects	NNPS
+Effects	NNS
 of	IN
 Atomic	NNP
 Radiation	NNP
@@ -20072,7 +20072,7 @@ Lessons	NNPS
 learned	VBN
 .	.
 which	WDT
-contradict	NN
+contradict	VBD
 the	DT
 earlier	JJR
 reports	NNS
@@ -20325,7 +20325,7 @@ http://digon_va.tripod.com/Chernobyl.htm	NN
 
 http://www.oneworld.org/index_oc/issue196/byckau.html	NN
 
-http://www.collectinghistory.net/chernobyl/	NN
+http://www.collectinghistory.net/chernobyl/	RB
 
 http://www.ukrainianweb.com/chernobyl_ukraine.htm	NN
 
